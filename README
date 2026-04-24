@@ -126,12 +126,33 @@ Hardware Vendor
 Write drivers and support new hardware:
 
 * Driver API Guide: Documentation/driver-api/index.rst
+
+https://github.com/sntpham/linux/blob/master/Documentation/driver-api/index.rst
+
 * Driver Model: Documentation/driver-api/driver-model/driver.rst
+
+
+
 * Device Drivers: Documentation/driver-api/infrastructure.rst
+
+
+
 * Bus Types: Documentation/driver-api/driver-model/bus.rst
+
+
+
 * Device Tree Bindings: Documentation/devicetree/bindings/
+
+
+
 * Power Management: Documentation/driver-api/pm/index.rst
+
+
+
 * DMA API: Documentation/core-api/dma-api.rst
+
+
+
 
 Distribution Maintainer
 -----------------------
@@ -154,7 +175,7 @@ kernel:
 
 * Documentation/process/coding-assistants.rst
 
-`coding-assistants <https://github.com/sntpham/linux/blob/master/Documentation/process/coding-assistants.rst> _`
+`coding-assistants <https://github.com/sntpham/linux/blob/master/Documentation/process/coding-assistants.rst>`_
 
 This documentation contains essential requirements about licensing, attribution,
 and the Developer Certificate of Origin that all AI tools must comply with.
