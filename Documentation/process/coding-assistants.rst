@@ -12,7 +12,11 @@ AI tools helping with Linux kernel development should follow the standard
 kernel development process:
 
 * Documentation/process/development-process.rst
-* Documentation/process/coding-style.rst
+
+* Documentation/process/coding-style.rst 
+
+`coding-style <https://github.com/sntpham/linux/blob/master/Documentation/process/coding-style.rst>`_
+
 * Documentation/process/submitting-patches.rst
 
 Licensing and Legal Requirements
