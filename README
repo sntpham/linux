@@ -154,6 +154,8 @@ kernel:
 
 * Documentation/process/coding-assistants.rst
 
+`coding-assistants <https://github.com/sntpham/linux/blob/master/Documentation/process/coding-assistants.rst> _`
+
 This documentation contains essential requirements about licensing, attribution,
 and the Developer Certificate of Origin that all AI tools must comply with.
 
